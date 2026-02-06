@@ -6,7 +6,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://i.imgur.com/N2cGMZC.png" />
+  <img src="https://i.imgur.com/h44AuBK.png" />
 </p>
 
 [![GitHub license](https://img.shields.io/github/license/alvarorichard/GoAnime)
